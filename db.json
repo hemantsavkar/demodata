@@ -1,27 +1,29 @@
-{[
-  {
-    "Title": "11:00 AM",
-    "IsReserved": true,
-    
-  },
-  {
-    "Title": "11:30 AM",
-    "IsReserved": false,
-    
-  },
-  {
-    "Title": "12:00 PM",
-    "IsReserved": false,
-    
-  },
-  {
-    "Title": "12:30 PM",
-    "IsReserved": true,
-    
-  },
-  {
-    "Title": "01:00 pM",
-    "IsReserved": true,
-    
-  }
-]}
+{
+  data: [
+    {
+      "Title": "11:00 AM",
+      "IsReserved": true,
+      
+    },
+    {
+      "Title": "11:30 AM",
+      "IsReserved": false,
+      
+    },
+    {
+      "Title": "12:00 PM",
+      "IsReserved": false,
+      
+    },
+    {
+      "Title": "12:30 PM",
+      "IsReserved": true,
+      
+    },
+    {
+      "Title": "01:00 pM",
+      "IsReserved": true,
+      
+    }
+  ]
+}
